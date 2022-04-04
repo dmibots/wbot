@@ -24,7 +24,8 @@
     "nhentai-js": "^4.0.0",
     "webp-converter": "2.3.3",
     "wikijs": "^6.3.3",
-    "yt-search": "^2.10.3"
+    "yt-search": "^2.10.3",
+    "serp": "^2.2.1"
   },
   "devDependencies": {
     "@discordjs/collection": "^0.5.0",
